@@ -3,7 +3,9 @@ title: Liang Zhang
 draft: false
 # role: Example Role
 avatar: images/avatar.jpeg
-bio: SphereEx 创始人 & CEO，Apache Member，Apache ShardingSphere、ElasticJob 创始人 & 项目管理委员会主席，腾讯云 TVP、微软 MVP。<br/><br/>热爱开源，擅长以 Java 为主分布式架构，推崇优雅代码。目前主要精力投入在将 Apache ShardingSphere 打造为业界一流的金融级分布式数据库解决方案之上；2019 年出版书籍《未来架构——从服务化到云原生》；2020 年度十大开源杰出贡献人物，2021 年度海纳奖“分布式数据库十大先锋人物”，思否 2021 中国开源先锋 33 人。<br/><br/><p><a href="https://github.com/terrymanu">View My GitHub Profile</a></p>
+bio: SphereEx 创始人 & CEO
+数据库领域知名实践者，多年来一直从事开源与数据库技术方面的技术研究，曾在多个大型互联网集团公司任高级技术架构师，主导并参与包括分布式数据库中间件在内的，多个企业级超级项目的研发工作，有丰富的研发经验和技术沉淀。是 Apache Member 、Apache ShardingSphere 创始人 & PMC Chair，主导推动并完成 ShardingSphere 在国际顶级开源基金会 Apache 的开源孵化工作，成为 Apache 基金会首个分布式数据库开源软件，并顺利毕业。通过 ShardingSphere 研究数据库治理，特别是在数据库分布式技术方面取得了重要成果，首提 DataBase Mash 概念，为发展数据库生态、建立数据库上层技术标准和革新云原生数据库落地提供重要参考。发表技术文章 30+ 篇，并曾在 AWS、SACC、ApacheCon Asia 等超过 40 个国内和国际上的重要行业和技术会议上做多次大会专题发言、出品人和主题分享。
+是微软最具价值专家 MVP，同时也是腾讯云最具价值专家 TVP，2020 年度十大开源杰出贡献人物，2021 年度海纳奖“分布式数据库十大先锋人物”，思否 2021 中国开源先锋 33 人。是《未来架构——从服务化到云原生》书籍作者。2021 年 4 月创立开源原生公司 SphereEx ，次月获得数百万美元融资，2022 年 1 月获得近千万美元 Pre-A 轮融资。<br/><br/><p><a href="https://github.com/terrymanu">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
