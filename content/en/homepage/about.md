@@ -3,7 +3,21 @@ title: Liang Zhang
 draft: false
 # role: Example Role
 avatar: images/avatar.jpeg
-bio: SphereEx Founder & CEO, Apache Member, Apache ShardingSphere, ElasticJob Founder & PMC Chair, Tencent Cloud TVP, Microsoft MVP.<br/><br/>Zhang is enthusiastic about open source, a thought leader in the field of distributed architectures based on Java, and is always striving to promote clean code. Currently, he focuses on turning Apache ShardingSphere into an industry-leading financial-grade distributed database solution. <br/>His book "Future Architecture:From Service to Cloud Native" was published in 2019, and was well received by both critics and the community. <br/>Zhang was awarded the title of "Top Ten Open Source Contributor of 2020" , “Top Ten Distributed Database Pioneers of 2021” awarded by CSDN, and "The 33 China Open Source Pioneers in 2021" by SegmentFault.<br/><br/><p><a href="https://github.com/terrymanu">View My GitHub Profile</a></p>
+bio: SphereEx Co-Founder & CEO
+
+Zhang Liang is a well-known personality in the database field, and has been engaged in open source and database technology research for many years. He has served as a senior technical architect in notable Internet companies, and has led the R&D efforts of several enterprise-level projects, including distributed database middleware.
+
+He is an Apache member, Apache ShardingSphere Founder & PMC Chair. He has led and completed the incubation of the open source project ShardingSphere in the Apache Software Foundation. ShardingSphere successfully graduated as the first distributed database software of the Apache Software Foundation. 
+
+Through ShardingSphere, he made significant contributions to database governance, especially in distributed database technologies. He introduced the DataBase Mesh concept, which provides an important reference for the development of database ecosystems, the establishment of database upper layer standards and the innovation of cloud native database landing. 
+
+He has published over 30 articles, and actively participated as a conference panelist, presenter and keynote speaker in over 40 national and international leading conferences such as AWS, SACC, ApacheCon etc. 
+
+He is a Microsoft MVP, and also Tencent TVP, and was recognized as "Top Ten Open Source Outstanding Contributors of 2020," "Top Ten Distributed Database Pioneers of 2021" by Haina Industry Co., Ltd, and "33 China Open Source Pioneers of Segment Fault 2021". He is also the author of the book "Future Architecture: From SOA to Cloud Native" .
+
+In April 2021,  he founded SphereEx, an open source native company. SphereEx raised millions of dollars in seed funding the following month, and closed a Pre-A funding round worth nearly $10 million in early 2022. 
+
+<br/><br/><p><a href="https://github.com/terrymanu">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
